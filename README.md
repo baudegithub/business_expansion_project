@@ -23,12 +23,19 @@ therefore, no conclusion can be drawn from it, unfortunately. This analysis show
 store sales are impacted by the seasonality which usually occurs in the last 4 months of the
 year.
 
+
+![question1](https://github.com/user-attachments/assets/e2635a91-d9b5-4160-a117-3e4e69f33750)
+
+
 The second visual shows how the top 10 countries which have opportunities for growth are
 performing. This data does not include the UK as the country already has high demand and I’ve
 been told you’re more focused on the countries where demand can be increased. The analysis
 shows that countries such as the Netherlands, Ireland, Germany and France have high volumes
 of units bought and revenue generated. I would suggest that these countries should be focused
 on to ensure that measures are taken to capture these markets even more.
+
+![question2](https://github.com/user-attachments/assets/faff6e96-fbd4-48d4-be8c-cd51feb49001)
+
 
 The third analysis has been performed on the top 10 customers who have purchased the most
 from the store. The data shows that there is not much of a difference between the purchases
@@ -37,6 +44,9 @@ more than the 2nd highest which shows that the business is not relying only on a
 to generate the revenue. This shows that the bargaining power of customers is low and the
 business is in a good position.
 
+![question3](https://github.com/user-attachments/assets/401bba93-d2c5-42e6-ad0c-42eb037682bb)
+
+
 Finally, the map chart shows the regions that have generated the most revenue compared with
 the regions that have not. It can be seen that apart from the UK, countries such as Netherlands,
 Ireland, Germany, France and Australia are generating high revenue and the company should
@@ -44,6 +54,9 @@ invest more in these areas to increase demand for products. The map also shows t
 the sales are only in the European region with very few in the American region. Africa and Asia
 do not have any demand for the products, along with Russia. A new strategy targeting these
 areas has the potential to boost sales revenues and profitability.
+
+![question4](https://github.com/user-attachments/assets/8e2738d2-c93b-4bfa-8639-df90391868d7)
+
 
 Thanks so much for your time. If you have any questions about the analysis or would like to see
 anything additional after you’ve had time to digest this information, I’d be happy to develop that
