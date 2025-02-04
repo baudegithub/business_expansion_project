@@ -3,7 +3,7 @@ This repository contains the business expansion I worked on during the business 
 
 **Insights and Recommendation persentation script ***
 
-I’m [insert name], and I’m excited to share some insights about your business. Thank you for
+I’m  Baudouin Gbessinou, and I’m excited to share some insights about your business. Thank you for
 providing the guiding questions. It was helpful to see what types of insights you are looking to
 gain from the data. I hope you find the analysis compelling and helpful as you make decisions
 regarding future business opportunities.
