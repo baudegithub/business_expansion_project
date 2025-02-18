@@ -1,5 +1,5 @@
 # business_expansion_project
-This repository contains the business expansion I worked on during the business consultant job simulation
+This repository contains the business expansion project  I worked on during the business consultant job simulation at Tata consultancy services
 
 **Insights and Recommendation persentation script ***
 
